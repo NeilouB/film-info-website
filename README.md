@@ -7,4 +7,4 @@ I used :
 
 
 
--All images and datas available here are open source.
+-All images and datas used in this website are open source.
